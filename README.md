@@ -12,10 +12,8 @@
 3. Pytorch    
 
 ## Run Codes
-'''
-python train_search.py    
-python train.py    
-python test.py    
-'''
+  python train_search.py    
+  python train.py    
+  python test.py    
 
 ## Notification
