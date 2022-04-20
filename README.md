@@ -7,6 +7,6 @@
 
 
 ## Requirements
-Anaconda    
-Cuda    
-Pytorch    
+1. Anaconda    
+2. Cuda    
+3. Pytorch    
