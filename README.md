@@ -7,6 +7,6 @@
 
 
 ## Requirements
-1. Anaconda    
+1. Anaconda (Not necessary)
 2. Cuda    
 3. Pytorch    
