@@ -7,8 +7,10 @@
 
 ## Requirements
 1. Anaconda (Not necessary)
-2. Cuda    
-3. Pytorch    
+2. Python
+3. Cuda
+4. Pytorch
+5. torchvision
 
 ## Run Codes 
 ```python
