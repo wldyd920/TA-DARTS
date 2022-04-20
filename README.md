@@ -10,3 +10,12 @@
 1. Anaconda (Not necessary)
 2. Cuda    
 3. Pytorch    
+
+## Run Codes
+'''
+python train_search.py    
+python train.py    
+python test.py    
+'''
+
+## Notification
