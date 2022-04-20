@@ -26,7 +26,7 @@ Change exp_path in test.py before you run test.py.
 
 ## Changes
 1. Some cuda functions has been editted and also added erasing cache to prevent cuda error including OOM.   
-2. 3 different Softmax functions for encoding architecture.    
+2. Three different Softmax functions for encoding architecture.    
 > Original Softmax    
 > Gumbel Softmax    
 > Softmax for Temperature Anealing    
