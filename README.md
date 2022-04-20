@@ -19,14 +19,14 @@ python test.py
 Change exp_path in test.py before you run test.py.
 
 ## Notification
-- It will automatically make exp directory and search0 directory.      
+1. It will automatically make exp directory and search0 directory.      
   > exp : Saves trained models and logs of it.    
   > search0 : Saves searched model and log. if you run "python train_search.py" again, it will overide unlike exp directory. 0 means the used GPU number for that   search.    
-- Current genotype is V1.
+2. Current genotype is V1.
 
 ## Changes
-- Some cuda functions has been editted and also added erasing cache to prevent cuda error including OOM.   
-- Three different Softmax functions for encoding architecture.    
+1. Some cuda functions has been editted and also added erasing cache to prevent cuda error including OOM.   
+2. Three different Softmax functions for encoding architecture.    
   > Original Softmax    
   > Gumbel Softmax    
   > Softmax for Temperature Anealing    
