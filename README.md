@@ -32,6 +32,6 @@ Change exp_path in test.py before you run test.py.
 > Softmax for Temperature Anealing    
 
 ## Upcoming
-1. visualize the log.
-- draw graph of architectures
-- draw graph of accuracy
+- visualize the log.
+1. draw graph of architectures
+2. draw graph of accuracy
