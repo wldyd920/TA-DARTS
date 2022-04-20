@@ -7,3 +7,6 @@
 
 
 ## Requirements
+Anaconda    
+Cuda    
+Pytorch    
