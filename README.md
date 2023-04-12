@@ -32,8 +32,3 @@ Change exp_path in test.py before you run test.py.
   > Original Softmax    
   > Gumbel Softmax    
   > Softmax for Temperature Anealing    
-
-## Upcoming
-- Visualization of the log.
-  1. Draw graph of architectures
-  2. Draw graph of accuracy
