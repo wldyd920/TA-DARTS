@@ -1,4 +1,4 @@
-![train](https://github.com/wldyd920/TA-DARTS/assets/56155855/2afe4c9e-0cbd-4969-a0ab-2fc8381b1858)![search](https://github.com/wldyd920/TA-DARTS/assets/56155855/4760513b-9363-4d84-a69a-772cbfdef08c)# Visualization of TA-DARTS    
+# Visualization of TA-DARTS    
 
 > All informations including accuracies, alpha and beta parameters were recorded during searching, training and testing.
 > All the data will be saved in "log.txt" file in "search0" or in an experiment folder in "exp" directory.
@@ -7,11 +7,11 @@
   
 
 - These are the training and validation graphs during the search process.
-
+![search](https://github.com/wldyd920/TA-DARTS/assets/56155855/4760513b-9363-4d84-a69a-772cbfdef08c)
 
 
 - These are the training and validation graphs during the training process. (after search)
-
+![train](https://github.com/wldyd920/TA-DARTS/assets/56155855/2afe4c9e-0cbd-4969-a0ab-2fc8381b1858)
 
 
 - This is the change of the alpha parameter(in normal cells) during search.    
