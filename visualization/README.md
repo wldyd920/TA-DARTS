@@ -1,12 +1,9 @@
 # Visualization of TA-DARTS    
 
-
-## How?    
-
-All informations including accuracies, alpha and beta parameters were recorded during searching, training and testing.
-All the data will be saved in log.txt file.
-We visualized the data to see the progress clearly.
-Scripts here are made to visualize the data and belows are the results of it.      <br/>
+> All informations including accuracies, alpha and beta parameters were recorded during searching, training and testing.
+> All the data will be saved in log.txt file.
+> We visualized the data to see the progress clearly.
+> Scripts here are made to visualize the data and belows are the results of it.      <br/>
 
 
 
