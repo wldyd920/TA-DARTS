@@ -7,12 +7,12 @@
   
 
 - These are the training and validation graphs during the search process.
-- 
+  
   ![search](https://github.com/wldyd920/TA-DARTS/assets/56155855/4760513b-9363-4d84-a69a-772cbfdef08c)
 
 
 - These are the training and validation graphs during the training process. (after search)
-- 
+  
   ![train](https://github.com/wldyd920/TA-DARTS/assets/56155855/2afe4c9e-0cbd-4969-a0ab-2fc8381b1858)
 
 
