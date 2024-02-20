@@ -6,6 +6,8 @@
 > Scripts here are made to visualize the data and belows are the results of it.
 
 
+
+
 ##This is the change of the alpha parameter(in normal cells) during search.    
 
 
