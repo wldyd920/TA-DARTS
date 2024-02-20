@@ -1,7 +1,7 @@
 # Visualization of TA-DARTS    
 
 > All informations including accuracies, alpha and beta parameters were recorded during searching, training and testing.
-> All the data will be saved in "log.txt" file in "search0" or "exp" folder.
+> All the data will be saved in "log.txt" file in "search0" or in an experiment folder in "exp" directory.
 > We visualized the data to see the progress clearly.
 > Scripts here are made to visualize the data and belows are the results of it.
   
