@@ -26,7 +26,7 @@ Change exp_path in test.py before you run test.py.
   > search0 : Saves searched model and log. if you run "python train_search.py" again, it will overide unlike exp directory. 0 means the used GPU number for that   search.    
 - Current genotype is V1.
 
-## Changes
+## Temperature Anealing
 - Some cuda functions has been editted and also added erasing cache to prevent cuda error including OOM.   
 - Three different Softmax functions for encoding architecture.    
   > Original Softmax    
