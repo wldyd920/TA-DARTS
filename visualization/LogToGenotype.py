@@ -1,4 +1,4 @@
-path = "C:/Users/user/VSC/TD-DARTS/dragen0/alpha/"
+path = "C:/Users/user/VSC/TD-DARTS/run/alpha/"
 
 def L2G(path):
     f = open(path+"log.txt", 'r')
