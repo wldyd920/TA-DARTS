@@ -1,4 +1,5 @@
 This is an example of the result saved from visualization.
+The directory number '42' will be used as 'exp-num' argument in visualization.
 
 The file 'search.svg' is showing training accuracies and validation accuracies at every epochs during search procedure.
 The file 'train.svg' is showing training accuracies and validation accuracies at every epochs during training procedure.
