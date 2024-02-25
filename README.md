@@ -1,8 +1,7 @@
 # DARTS with Softmax Temperature Anealing
 
 ## Publication
-> MDPI
-> Applied Sciences : https://www.mdpi.com/2076-3417/13/18/10138
+> MDPI Applied Sciences : https://www.mdpi.com/2076-3417/13/18/10138
 
 ## References
 > Original DARTS Paper : https://arxiv.org/abs/1806.09055    
