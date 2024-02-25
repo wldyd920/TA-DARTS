@@ -1,0 +1,4 @@
+2023-06-26 15:28:58,077 gpu device = 0
+2023-06-26 15:28:58,078 args = Namespace(arch='MyDARTS', auxiliary=True, auxiliary_weight=0.4, batchsz=96, cutout=True, cutout_length=16, data='../data', drop_path_prob=0.2, epochs=600, exp_path='exp/cifar10', gpu=0, grad_clip=5, init_ch=36, layers=20, lr=0.025, model_path='saved_models', momentum=0.9, report_freq=1, save='exp/cifar10-20230626-152858', seed=0, wd=0.0003)
+2023-06-26 15:28:58,462 param size = 3.662758MB
+2023-06-26 15:28:59,818 epoch 0 lr 2.499966e-02
