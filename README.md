@@ -9,11 +9,12 @@
 > Source Code : https://github.com/dragen1860/DARTS-PyTorch
 
 ## Requirements
-1. Anaconda (Not necessary)
-2. Python
-3. Cuda
-4. Pytorch
-5. torchvision
+Python == 3.10.14
+Pytorch == 2.2.2
+torchvision == 0.17.2
+numpy == 1.26.4
+graphviz == 0.20.3
+
 
 ## Run Codes 
 ```python
